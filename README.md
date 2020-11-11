@@ -1,2 +1,1 @@
-# URLChecker
-A simple URLChecker written concurrently with the help of Goroutines.
+A simple program which is checking whether a domain is alive or not basically. This program can be made more advanced by checking all the subdomains for a domain is alive or not. I am learning Go concurrency but once I finish it,I will update it so that you can take maximum advantage of this script.
